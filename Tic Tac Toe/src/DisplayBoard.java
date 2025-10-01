@@ -1,9 +1,9 @@
 
 public class DisplayBoard
 	{
-		
+	
 			{
-				int[][] board = new int[3][3];
+				 String[][] board = new String[3][3];
 				System.out.println("    1    2    3");
 				System.out.println("  -------------");
 				System.out.println("A | "+ board[0][0]+" | "+board[0][1]+" | "+board[0][2]+" |  ");
