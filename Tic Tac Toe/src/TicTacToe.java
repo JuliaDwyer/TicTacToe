@@ -6,6 +6,7 @@ public class TicTacToe
 			{
 				prepareBoard();
 				DisplayBoard();
+				// done at home
 			} 
 		static void prepareBoard()
 			{
