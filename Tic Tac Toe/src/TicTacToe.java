@@ -8,6 +8,11 @@ public class TicTacToe
 				DisplayBoard();
 				// done at home
 			} 
+		private static void DisplayBoard()
+			{
+				// TODO Auto-generated method stub
+				
+			}
 		static void prepareBoard()
 			{
 				String fill = " ";
